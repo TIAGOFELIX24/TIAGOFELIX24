@@ -15,8 +15,7 @@ Com uma trajetória sólida na gestão de processos e fabricação, hoje dedico 
 
 ### 🌐 Projetos
 * **Meu Portfólio:** [tiagofelixdev.com.br](https://tiagofelixdev.com.br)
-* **ANVEE:** Em fase de fundação e desenvolvimento de core business.
-
+* **ANVEE:** https://www.anvee.tec.br/
 ---
 
 ### 📫 Contato
